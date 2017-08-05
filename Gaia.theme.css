@@ -1,6 +1,6 @@
 //META{"name":"Gaia","description":"A transparent theme with altered elements.","author":"Gimo","version":"1.5"}*//
 .app{
-	background: url("https://i.imgur.com/OXncnhS.jpg");
+	background: url("http://imgur.com/Z2Xba2k");
 	background-size: cover;
 }
 .layers, .layer { background: transparent !important; }
@@ -101,27 +101,27 @@ padding-left: 0;
 }
 .status-picker .popout-menu-item:nth-of-type(1){
  background-color: #43b581;
-    background-image: url("https://i.imgur.com/aSrallN.png");
+    background-image: url("http://imgur.com/Z2Xba2k");
     background-repeat: no-repeat;
     background-position: center;
 }
 .status-picker .popout-menu-item:nth-of-type(3){
  background-color: #faa61a;   
-    background-image: url("https://i.imgur.com/aRLIO1s.png");
+    background-image: url("http://imgur.com/Z2Xba2k");
     background-repeat: no-repeat;
     background-position: center;
 
 }
 .status-picker .popout-menu-item:nth-of-type(4){
  background-color: #f04747;   
-    background-image: url("https://i.imgur.com/ePsaFEf.png");
+    background-image: url("http://imgur.com/Z2Xba2k");
     background-repeat: no-repeat;
     background-position: center;
 
 }
 .status-picker .popout-menu-item:nth-of-type(5){
  background-color: #747f8d;   
-    background-image: url("https://i.imgur.com/gxJLFK6.png");
+    background-image: url("http://imgur.com/Z2Xba2k");
     background-repeat: no-repeat;
     background-position: center;
 
